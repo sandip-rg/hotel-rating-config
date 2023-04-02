@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: CONFIG-DEFAULT
   datasource:
     url: jdbc:mysql://localhost:3306/hotelRatingDb1
     username: root
